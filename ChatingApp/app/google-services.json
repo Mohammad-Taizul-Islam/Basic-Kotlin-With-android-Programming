@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "29260991559",
+    "firebase_url": "https://simplechatingapp.firebaseio.com",
+    "project_id": "simplechatingapp",
+    "storage_bucket": "simplechatingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29260991559:android:7f0fce92af9c88a35eb562",
+        "android_client_info": {
+          "package_name": "com.example.chatingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29260991559-k79a701nhnc525lr6q1of2eq688l09u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxXEQq7o-O0RcChrgAchv3NCNXrb_V0qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29260991559-k79a701nhnc525lr6q1of2eq688l09u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29260991559:android:f5515605c9c7bf7e5eb562",
+        "android_client_info": {
+          "package_name": "com.example.simplechatingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29260991559-hu1su5sjbl58h8j9b91dr5cv0p2k921t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simplechatingapp",
+            "certificate_hash": "f8d187721062175c0527de6e21eb1544387ade63"
+          }
+        },
+        {
+          "client_id": "29260991559-k79a701nhnc525lr6q1of2eq688l09u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxXEQq7o-O0RcChrgAchv3NCNXrb_V0qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29260991559-k79a701nhnc525lr6q1of2eq688l09u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
